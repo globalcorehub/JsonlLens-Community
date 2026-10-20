@@ -16,9 +16,9 @@
   <a href="#what-you-can-open">Supported formats</a>
 </p>
 
-![JsonlLens demo](assets/jsonllens-demo.gif)
+![Real JsonlLens Windows app demo](assets/jsonllens-demo.gif)
 
-JsonlLens is a native, read-only Windows workbench for engineers who need to inspect data files that are too large for a conventional text editor. It combines sparse indexing, virtualized rows, and DuckDB-powered streaming so you can jump into a 10 GB+ file, filter records, inspect nested JSON, and run focused SQL while keeping the desktop responsive.
+The GIF above is captured from the running JsonlLens Windows desktop build. JsonlLens is a native, read-only Windows workbench for engineers who need to inspect data files that are too large for a conventional text editor. It combines sparse indexing, virtualized rows, and DuckDB-powered streaming so you can jump into a 10 GB+ file, filter records, inspect nested JSON, and run focused SQL while keeping the desktop responsive.
 
 ## Why JsonlLens
 
