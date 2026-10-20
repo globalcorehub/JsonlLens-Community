@@ -30,6 +30,7 @@ The GIF above is captured from the running JsonlLens Windows desktop build. Json
 - **Search and SQL together** — start with a quick field filter, then move to DuckDB SQL for grouping, sampling, and aggregation.
 - **Read-only by design** — inspect production exports and logs with no accidental edits.
 - **Windows-native workflow** — light and dark themes, keyboard-friendly navigation, and file associations for common data formats.
+- **Three interface languages** — English, 简体中文, and 日本語 can be selected from the app language menu.
 
 ## What you can open
 
