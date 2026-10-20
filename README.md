@@ -1,5 +1,7 @@
 # JsonlLens — Fast Windows Viewer for 10GB+ JSONL, NDJSON, and Parquet Files
 
+**Languages:** English · [日本語](README.ja.md) · [简体中文](README.zh-CN.md)
+
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9N9X7K90R64G">
     <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="230" alt="Get it from Microsoft Store" />
